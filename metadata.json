@@ -1,0 +1,10 @@
+{
+  "name": "ამინდი",
+  "description": "ტერიტორიული ამინდისა და ტემპერატურის პროგნოზის აპლიკაცია საქართველოსა და მსოფლიოს რეგიონებისთვის",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
